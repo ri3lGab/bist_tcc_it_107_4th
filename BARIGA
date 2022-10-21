@@ -1,0 +1,9 @@
+git config --global user.name BarigaRoxanne
+git config--global user.email barigaroxanne@gmail.com
+git init
+git status
+git add Bariga
+git commit -m "makapasar ko'
+git remote add origin https://github.com/ri3lGab/bist_tcc_it_107_4th
+git branch -M main
+git push -u origin main
